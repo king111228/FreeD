@@ -723,7 +723,7 @@
     {
       "id": 1,
       "name": "百度剧情",
-      "url": "https://www.llbdzy.com/api.php/provide/vod/at/xml/",
+      "url": "http://llbdzy.com/api.php/provide/vod/at/xml",
       "cate": "伦理,1",
       "click": true,
       "wePlus": {}
