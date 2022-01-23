@@ -65,10 +65,10 @@
       "webPlus": {}
     },
     {
-      "name": "m3u8格式测试源",
+      "name": "国外直播",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://xitaofan.com/IPTV/iptv.m3u8",
-      "type": "m3u8",
+      "webUrl": "https://iptv-org.github.io/iptv/index.nsfw.m3u",
+      "type": "m3u",
       "subTitle": "",
       "click": true,
       "autoNext": true,
