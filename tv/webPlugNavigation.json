@@ -558,7 +558,7 @@
             "click":true
         },
         {
-            "name":"低端影视(Web)",
+            "name":"低端影视",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type":"webPlug",
             "ads":"https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
@@ -567,7 +567,7 @@
             "click":true
         },
         {
-            "name":"素白白(Web)",
+            "name":"素白白网",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type":"webPlug",
             "ads":"id=6933",
@@ -593,8 +593,44 @@
             "webOpen":true,
             "click":true
         },
+	{
+            "name":"鸭奈飞网",
+            "pic":"https://img.ciyuanji.com/files/2021/07/22/2ad6564f9aee4ea085dc70d5a3b7b31c.png",
+            "type":"webPlug",
+            "ads":"",
+            "webUrl":"https://netflix.mom/",
+            "webOpen":true,
+            "click":true
+        },
+	{
+            "name":"天空影视",
+            "pic":"https://www.tkys.tv/template/uzhanw1/statics/image/20211128/b37e02d40.png",
+            "type":"webPlug",
+            "ads":"",
+            "webUrl":"https://www.tkys.tv/",
+            "webOpen":true,
+            "click":true
+        },
+	{
+            "name":"影视工厂",
+            "pic":"https://ysgc.cc/template/mytheme/statics/image/20210613/497851bde.png",
+            "type":"webPlug",
+            "ads":"",
+            "webUrl":"https://ysgc.cc/",
+            "webOpen":true,
+            "click":true
+        },
+	{
+            "name":"爱西西网",
+            "pic":"https://cdn.jsdelivr.net/gh/15225159177/hmys/axx.png",
+            "type":"webPlug",
+            "ads":"",
+            "webUrl":"https://myaixixi.com/",
+            "webOpen":true,
+            "click":true
+        },
         {
-            "name":"百度搜索(Web)",
+            "name":"百度搜索",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
@@ -605,7 +641,7 @@
             "click":true
         },
         {
-            "name":"央视直播(Web)",
+            "name":"央视直播",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
@@ -616,7 +652,7 @@
             "click":true
         },
         {
-            "name":"虎牙一起看(Web)",
+            "name":"虎牙直播",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
@@ -627,7 +663,7 @@
             "click":true
         },
         {
-            "name":"斗鱼一起看(Web)",
+            "name":"斗鱼直播",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
@@ -638,7 +674,7 @@
             "click":true
         },
         {
-            "name":"哔哩哔哩一起看(Web)",
+            "name":"哔哩哔哩",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
@@ -649,7 +685,7 @@
             "click":true
         },
         {
-            "name":"企鹅一起看(Web)",
+            "name":"企鹅直播",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
