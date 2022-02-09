@@ -646,6 +646,14 @@
             "click":true
         },
         {
+            "name":"奈飞影视",
+            "pic":"https://image1.h128.com/upload/201909/14/thumb_720_auto_201909142318578371.jpg",
+            "ads":"",
+            "webUrl":"https://yanetflix.com/",
+            "webOpen":true,
+            "click":true
+        },
+        {
             "name":"百度搜索",
             "pic":"https://lmg.jj20.com/up/allimg/mx14/0310211S012/2103101S012-1.jpg",
             "keyDownPlay":false,
