@@ -2,7 +2,7 @@
 {
     "data":[
         {
-            "name":"久久看片(规则)",
+            "name":"久久看片",
             "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
             "ads":"",
@@ -90,7 +90,7 @@
             }
         },
         {
-            "name":"9亿看看(规则)",
+            "name":"九亿看看",
             "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/c52dabca-ada7-479a-8e32-fd32efe1d708?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
             "ads":"",
@@ -181,7 +181,7 @@
             }
         },
         {
-            "name":"爱迪(规则)",
+            "name":"爱迪影视",
             "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/702e9f4a-017d-4410-97d3-a3bddd108bb9?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
             "ads":"",
@@ -277,7 +277,7 @@
             }
         },
 		{
-      "name": "大师兄影视(规则)",
+      "name": "大师兄网",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/ab32ab73-4475-4be1-ab6e-4b3ff641f7fb?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
@@ -365,7 +365,7 @@
       }
     },
 	{
-      "name": "555电影(规则)",
+      "name": "三五电影",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/72ba3149-cf88-4756-ac34-f3d51844118c?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
@@ -453,7 +453,7 @@
       }
     },
 	{
-      "name": "天空影视(规则)",
+      "name": "天空影视",
       "pic": "https://imgpub.chuangkit.com/materials/2021/01/05/b1472245-4a12-4c4a-bb2e-269d62d325a9?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
       "ads": "",
@@ -541,7 +541,7 @@
       }
     },
         {
-            "name":"西瓜视频(Web)",
+            "name":"西瓜视频",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "ads":"",
             "webUrl":"https://www.ixigua.com/channel/dianying/",
@@ -549,7 +549,7 @@
             "click":true
         },
         {
-            "name":"长资源(Web)",
+            "name":"长资源网",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type":"webPlug",
             "ads":"",
@@ -576,7 +576,7 @@
             "click":true
         },
         {
-            "name":"NO视频(Web)",
+            "name":"没有视频",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type":"webPlug",
             "ads":"ad,https://nfxhd.com/pic/p.gif",
@@ -585,7 +585,7 @@
             "click":true
         },
         {
-            "name":"zzzfun(Web)",
+            "name":"追番动漫",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type":"webPlug",
             "ads":"ad,https://nfxhd.com/pic/p.gif",
@@ -626,6 +626,14 @@
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://myaixixi.com/",
+            "webOpen":true,
+            "click":true
+        },
+	{
+            "name":"爱看啦网",
+            "pic":"https://img02.sogoucdn.com/app/a/100520093/d71a6360ba8601ff-07d87d56d0ad1ec6-2a888aaaee0ccc73d8a4b067f8cc1adb.jpg",
+            "ads":"",
+            "webUrl":"https://vip.52sjmz.cn/",
             "webOpen":true,
             "click":true
         },
