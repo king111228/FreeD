@@ -604,7 +604,7 @@
         },
 	{
             "name":"天空影视",
-            "pic":"http://img.netbian.com/file/2022/0208/small2240526bx5V1644331252.jpg",
+            "pic":"https://image1.h128.com/upload/201908/24/thumb_720_auto_201908240009156401.jpg",
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://www.tkys.tv/",
@@ -613,7 +613,7 @@
         },
 	{
             "name":"影视工厂",
-            "pic":"http://img.netbian.com/file/2022/0207/small233435RKTRO1644248075.jpg",
+            "pic":"https://image1.h128.com/upload/201908/24/thumb_720_auto_201908240009156401.jpg",
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://ysgc.cc/",
@@ -634,6 +634,14 @@
             "pic":"https://img02.sogoucdn.com/app/a/100520093/d71a6360ba8601ff-07d87d56d0ad1ec6-2a888aaaee0ccc73d8a4b067f8cc1adb.jpg",
             "ads":"",
             "webUrl":"https://vip.52sjmz.cn/",
+            "webOpen":true,
+            "click":true
+        },
+        {
+            "name":"虎猫视频",
+            "pic":"https://image1.h128.com/upload/202002/26/thumb_720_auto_202002261128577756.jpg",
+            "ads":"",
+            "webUrl":"https://humaosp.com/",
             "webOpen":true,
             "click":true
         },
