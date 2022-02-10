@@ -654,6 +654,14 @@
             "click":true
         },
         {
+            "name":"在线之家",
+            "pic":"https://image1.h128.com/upload/202101/30/thumb_720_auto_202101302202148014.jpg",
+            "ads":"",
+            "webUrl":"https://www.zxzj.fun/",
+            "webOpen":true,
+            "click":true
+        },
+        {
             "name":"百度搜索",
             "pic":"https://lmg.jj20.com/up/allimg/mx14/0310211S012/2103101S012-1.jpg",
             "keyDownPlay":false,
