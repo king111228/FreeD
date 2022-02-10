@@ -542,7 +542,7 @@
     },
         {
             "name":"西瓜视频",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "pic":"https://image1.h128.com/upload/202202/09/thumb_720_auto_202202091934517227.jpg",
             "ads":"",
             "webUrl":"https://www.ixigua.com/channel/dianying/",
             "webOpen":true,
@@ -550,7 +550,7 @@
         },
         {
             "name":"长资源网",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+            "pic":"https://image1.h128.com/upload/202202/09/thumb_720_auto_202202091934420792.jpg",
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://www.qianoo.cn/",
@@ -559,7 +559,7 @@
         },
         {
             "name":"低端影视",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+            "pic":"https://image1.h128.com/upload/202202/09/thumb_720_auto_202202091934562690.jpg",
             "type":"webPlug",
             "ads":"https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
             "webUrl":"https://ddrk.me",
@@ -568,7 +568,7 @@
         },
         {
             "name":"素白白网",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+            "pic":"https://image1.h128.com/upload/202108/05/thumb_720_auto_202108051743540824.jpg",
             "type":"webPlug",
             "ads":"id=6933",
             "webUrl":"https://www.subaibai.com/",
@@ -577,7 +577,7 @@
         },
         {
             "name":"没有视频",
-            "pic":"https://image1.h128.com/upload/202202/01/thumb_720_auto_202202012157026994.jpg",
+            "pic":"https://image1.h128.com/upload/201906/04/thumb_720_auto_201906040936287335.jpg",
             "type":"webPlug",
             "ads":"ad,https://nfxhd.com/pic/p.gif",
             "webUrl":"https://www.novipnoad.com/",
@@ -604,7 +604,7 @@
         },
 	{
             "name":"天空影视",
-            "pic":"https://image1.h128.com/upload/201908/24/thumb_720_auto_201908240009156401.jpg",
+            "pic":"https://image1.h128.com/upload/201906/15/thumb_720_auto_201906150939200168.jpg",
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://www.tkys.tv/",
@@ -613,7 +613,7 @@
         },
 	{
             "name":"影视工厂",
-            "pic":"https://image1.h128.com/upload/201908/24/thumb_720_auto_201908240009156401.jpg",
+            "pic":"https://image1.h128.com/upload/201906/13/thumb_720_auto_201906131216568081.jpg",
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://ysgc.cc/",
@@ -647,7 +647,7 @@
         },
         {
             "name":"奈飞影视",
-            "pic":"https://image1.h128.com/upload/201909/14/thumb_720_auto_201909142318578371.jpg",
+            "pic":"https://image1.h128.com/upload/202202/09/thumb_720_auto_202202091935560056.jpg",
             "ads":"",
             "webUrl":"https://yanetflix.com/",
             "webOpen":true,
@@ -666,7 +666,7 @@
         },
         {
             "name":"央视直播",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "pic":"https://image1.h128.com/upload/202202/09/thumb_720_auto_202202091935308914.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
@@ -677,7 +677,7 @@
         },
         {
             "name":"虎牙直播",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "pic":"https://image1.h128.com/upload/202109/06/thumb_720_auto_202109062305064282.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
@@ -688,7 +688,7 @@
         },
         {
             "name":"斗鱼直播",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "pic":"https://image1.h128.com/upload/202111/28/thumb_720_auto_202111281036213823.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
@@ -699,7 +699,7 @@
         },
         {
             "name":"哔哩哔哩",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "pic":"https://image1.h128.com/upload/202202/07/thumb_720_auto_202202072215507162.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
@@ -710,7 +710,7 @@
         },
         {
             "name":"企鹅直播",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "pic":"https://image1.h128.com/upload/202107/26/thumb_720_auto_202107262137543750.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
