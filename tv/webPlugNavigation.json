@@ -662,6 +662,14 @@
             "click":true
         },
         {
+            "name":"蜂鸟影视",
+            "pic":"https://image1.h128.com/upload/202202/05/thumb_720_auto_202202052241407784.jpg",
+            "ads":"",
+            "webUrl":"https://www.fnyy6.net/",
+            "webOpen":true,
+            "click":true
+        },
+        {
             "name":"百度搜索",
             "pic":"https://lmg.jj20.com/up/allimg/mx14/0310211S012/2103101S012-1.jpg",
             "keyDownPlay":false,
