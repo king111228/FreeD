@@ -104,7 +104,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": true,
-      "webOpen": false,
+      "webOpen": true,
       "keyDownPlay": true,
       "keyUpPlay": true,
       "userAgent": "",
